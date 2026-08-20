@@ -14,9 +14,13 @@ Estudante de **Sistemas de Informação na UNIFEI** e Trainee na **byron.solutio
 
 ### 📊 Estatísticas do GitHub
 
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeitorSrm&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeitorSrm&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</div>
+
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HeitorSrm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorSrm&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeitorSrm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
