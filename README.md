@@ -1,13 +1,13 @@
 # Olá, eu sou o Heitor Moura! 👋
 
-Estudante de **Sistemas de Informação na UNIFEI** e Trainee na **byron.solutions**, com foco em desenvolvimento web moderno e engenharia de software.
+Estudante de **Sistemas de Informação na UNIFEI**, com foco em desenvolvimento web moderno e engenharia de software.
 
 ---
 
 ### 🛠️ Tecnologias & Habilidades
 
 - **Frontend & Web:** Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
-- **Linguagens & Fundamentos:** C, C++, Algoritmos e Estruturas de Dados
+- **Linguagens & Fundamentos:** C, C++, Python, Algoritmos e Estruturas de Dados
 - **Ferramentas:** Git, GitHub, VS Code, Linux/WSL
 
 ---
@@ -15,17 +15,21 @@ Estudante de **Sistemas de Informação na UNIFEI** e Trainee na **byron.solutio
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeitorSrm&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeitorSrm&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.azurewebsites.net/api?username=HeitorSrm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=HeitorSrm&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeitorSrm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=HeitorSrm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📬 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-sebastiao-ribeiro-de-moura-38ba65358/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitorsebastiaoribeiromoura@gmail.com)
+<a href="https://www.linkedin.com/in/heitor-sebastiao-ribeiro-de-moura-38ba65358/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:heitorsebastiaoribeiromoura@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
