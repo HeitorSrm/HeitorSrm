@@ -6,9 +6,9 @@ Estudante de **Sistemas de Informação na UNIFEI**, com foco em desenvolvimento
 
 ### 🛠️ Tecnologias & Habilidades
 
-- **Frontend & Web:** Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
-- **Linguagens & Fundamentos:** C, C++, Python, Algoritmos e Estruturas de Dados
-- **Ferramentas:** Git, GitHub, VS Code, Linux/WSL
+- **Frontend & Web:** Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3;
+- **Linguagens & Fundamentos:** C, C++, Python, Algoritmos e Estruturas de Dados;
+- **Ferramentas:** Git, GitHub, VS Code, Linux/WSL;
 
 ---
 
