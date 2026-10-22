@@ -25,7 +25,7 @@ Estudante de **Sistemas de Informação na UNIFEI**, com foco em desenvolvimento
 
 ---
 
-### 📬 Onde me encontrar
+### 📬 Onde me encontrar!
 
 <a href="https://www.linkedin.com/in/heitor-sebastiao-ribeiro-de-moura-38ba65358/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
